@@ -8,8 +8,6 @@ nébulosité, le vent, les chutes de pluie. L’une des missions de ces associat
 de construire des modèles de prévision de la pollution du lendemain à partir
 des données disponibles du jour.
 
-#### L’objectif de cette étude est de mettre en
-évidence l’influence de certains paramètres sur la pollution et différentes
-variables observées ou leur prévision.
+#### L’objectif de cette étude est de mettre en évidence l’influence de certains paramètres sur la pollution et différentes variables observées ou leur prévision.
 
-## pour plus de détail, lisez le rapport pdf.
+#### pour plus de détail, lisez le rapport pdf.
